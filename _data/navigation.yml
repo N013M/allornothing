@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "درباره"
+  - title: "معلوماتي"
     url: /about/
-  - title: "تماس با من"
+  - title: "للتواصل معي"
     url: /contact/
-  - title: "دسته‌بندی"
+  - title: "المواضيع"
     url: /tags/
+  - title: "المواضيع"
+    url: /categories/
